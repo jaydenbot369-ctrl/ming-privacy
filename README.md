@@ -8,7 +8,7 @@ Ming ("we", "our", or "the app") is a mobile app that provides symbolic chart re
 
 ## 1. Who we are
 
-Ming is developed and operated by the Ming app team. If you have privacy questions, contact us at **jaydenbot369@gmail.com**.
+Ming is developed and operated by the Ming app team. If you have privacy questions, contact us at **support@ming-app.com**.
 
 ---
 
@@ -79,12 +79,12 @@ All third-party processors are bound by their own privacy policies and data-proc
 
 You have the right to:
 
-- **Access** the data we hold about you — request a copy at jaydenbot369@gmail.com
+- **Access** the data we hold about you — request a copy at support@ming-app.com
 - **Correct** inaccurate data — via the app settings, or by contacting us
-- **Delete** your account and all associated data — in-app: **Settings → Delete Account**, or email jaydenbot369@gmail.com and we will process within 30 days
+- **Delete** your account and all associated data — in-app: **Settings → Delete Account**, or email support@ming-app.com and we will process within 30 days
 - **Withdraw consent** — stop using the app and request deletion
 - **Object** to specific processing — contact us
-- **Export** your data in a portable format — request at jaydenbot369@gmail.com
+- **Export** your data in a portable format — request at support@ming-app.com
 
 Residents of California, the EU/UK, or other jurisdictions with equivalent rights under CCPA, GDPR, or similar frameworks can exercise these same rights without discrimination.
 
@@ -103,7 +103,7 @@ No method of internet transmission is 100% secure; we continuously harden our sy
 
 ## 8. Children
 
-Ming is not directed at children under 13 (or under 16 in the EU/UK). We do not knowingly collect data from children. If you believe a child has provided us with personal data, contact jaydenbot369@gmail.com and we will delete it.
+Ming is not directed at children under 13 (or under 16 in the EU/UK). We do not knowingly collect data from children. If you believe a child has provided us with personal data, contact support@ming-app.com and we will delete it.
 
 ---
 
@@ -123,7 +123,7 @@ When we make material changes to this policy, we will update the "Last updated" 
 
 For any privacy question, data request, or complaint:
 
-**Email:** jaydenbot369@gmail.com
+**Email:** support@ming-app.com
 
 If you are in the EU/UK and are not satisfied with our response, you have the right to lodge a complaint with your local data protection authority.
 
