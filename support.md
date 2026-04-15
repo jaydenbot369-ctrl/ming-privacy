@@ -6,7 +6,7 @@ Welcome. This page tells you how to get help with Ming.
 
 ## Contact us
 
-**Email:** jaydenbot369@gmail.com
+**Email:** support@ming-app.com
 
 We typically respond within 2 business days.
 
@@ -56,7 +56,7 @@ Yes. See our [Privacy Policy](https://jaydenbot369-ctrl.github.io/ming-privacy/)
 
 ### I found a bug or have a feature request
 
-Email us at jaydenbot369@gmail.com with:
+Email us at support@ming-app.com with:
 - What you were trying to do
 - What happened
 - What you expected to happen
