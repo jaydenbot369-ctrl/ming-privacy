@@ -24,7 +24,7 @@ When you write in, it helps a lot if you include:
 
 In the app: **Settings → Delete Account**. This removes your account and all associated data from our servers. The action cannot be undone.
 
-If you cannot reach the in-app option, email us at jaydenbot369@gmail.com and we will delete your account within 30 days.
+If you cannot reach the in-app option, email us at support@ming-app.com and we will delete your account within 30 days.
 
 ### How do I cancel my subscription or get a refund?
 

@@ -57,9 +57,8 @@ To operate Ming, we use the following service providers. Each only receives the 
 | Provider | Role | Data shared |
 |----------|------|-------------|
 | **Apple** (Sign in with Apple, In-App Purchase) | Authentication and payment processing | Name, email (as provided by Apple), purchase receipts |
-| **Supabase** | Authentication, database, and hosting backend | All account and chart data above |
 | **RevenueCat** | Subscription and entitlement management | User ID, device identifier, purchase history |
-| **Hostinger** | Server hosting for our API | Encrypted traffic, account data at rest |
+| **Hostinger** | Hosts our API server and Postgres database | All account and chart data above, encrypted in transit, at rest on Hostinger infrastructure |
 | **LLM providers** (DeepSeek, and optionally OpenAI, Anthropic, or Google) | Generating narrative readings | Only the chart summary derived from your birth data — never your name, email, or any direct identifier |
 
 All third-party processors are bound by their own privacy policies and data-processing agreements.
@@ -72,6 +71,7 @@ All third-party processors are bound by their own privacy policies and data-proc
 - **Purchase history**: retained as long as required by Apple and tax authorities (typically 7 years)
 - **Chart readings and saved contacts**: kept until you delete them or delete your account
 - **Logs**: rotated and deleted within 30 days
+- **Anti-abuse identifier after account deletion**: when you delete your account, we retain a one-way cryptographic hash of your Apple identifier, plus two flags indicating whether the free-tier chart or birth-change allowance was used. This contains no birth data, no name, and no email, and cannot be reversed to identify you. Its sole purpose is to prevent repeat use of the free allowance by deleting and re-creating accounts. Legal basis: legitimate interest in fraud prevention (GDPR Art. 6(1)(f), Recital 47). You may request removal of this record by emailing support@ming-app.com.
 
 ---
 
