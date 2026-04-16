@@ -1,6 +1,6 @@
 # Ming Privacy Policy
 
-**Last updated: April 14, 2026**
+**Last updated: April 16, 2026**
 
 Ming ("we", "our", or "the app") is a mobile app that provides symbolic chart readings based on your birth details. We take privacy seriously. This policy explains what we collect, why, who we share it with, and how you can control your data.
 
@@ -67,11 +67,10 @@ All third-party processors are bound by their own privacy policies and data-proc
 
 ## 5. How long we keep it
 
-- **Account data** (name, email, birth details, user ID): kept for as long as your account is active
+- **Account data** (name, email, birth details, user ID), **chart readings**, and **saved contacts**: kept while your account is active. When you delete your account in the app, this data is retained in a recoverable state for **90 days**. During this window, signing back in with the same Apple ID fully restores your account and your previous readings — you will not need to regenerate them. After 90 days the data is permanently deleted, and only the anti-abuse identifier described below survives. If you want an immediate and irreversible deletion that bypasses the 90-day window, see "Your rights" below. Legal basis for the 90-day window: legitimate interest in enabling account recovery and preventing accidental loss of paid readings (GDPR Art. 6(1)(f)).
 - **Purchase history**: retained as long as required by Apple and tax authorities (typically 7 years)
-- **Chart readings and saved contacts**: kept until you delete them or delete your account
 - **Logs**: rotated and deleted within 30 days
-- **Anti-abuse identifier after account deletion**: when you delete your account, we retain a one-way cryptographic hash of your Apple identifier, plus two flags indicating whether the free-tier chart or birth-change allowance was used. This contains no birth data, no name, and no email, and cannot be reversed to identify you. Its sole purpose is to prevent repeat use of the free allowance by deleting and re-creating accounts. Legal basis: legitimate interest in fraud prevention (GDPR Art. 6(1)(f), Recital 47). You may request removal of this record by emailing support@ming-app.com.
+- **Anti-abuse identifier after account deletion**: in addition to the 90-day recoverable window above, we retain a one-way cryptographic hash of your Apple identifier plus two flags indicating whether the free-tier chart or birth-change allowance was used. This contains no birth data, no name, and no email, and cannot be reversed to identify you. Its sole purpose is to prevent repeat use of the free allowance by deleting and re-creating accounts. This identifier survives past the 90-day window. Legal basis: legitimate interest in fraud prevention (GDPR Art. 6(1)(f), Recital 47). You may request removal of this record by emailing support@ming-app.com.
 
 ---
 
@@ -81,7 +80,7 @@ You have the right to:
 
 - **Access** the data we hold about you — request a copy at support@ming-app.com
 - **Correct** inaccurate data — via the app settings, or by contacting us
-- **Delete** your account and all associated data — in-app: **Settings → Delete Account**, or email support@ming-app.com and we will process within 30 days
+- **Delete** your account and all associated data — in-app: **Settings → Delete Account**. Your data enters a 90-day recoverable state; signing back in with the same Apple ID within that window fully restores your account. To request **immediate and irreversible** deletion (bypassing the 90-day window), email support@ming-app.com and we will process within 30 days
 - **Withdraw consent** — stop using the app and request deletion
 - **Object** to specific processing — contact us
 - **Export** your data in a portable format — request at support@ming-app.com
